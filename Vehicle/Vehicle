@@ -1,0 +1,8 @@
+package com.jspider.Interface;
+
+public interface Vehicle {
+	
+	void start();
+	void stop();
+
+}
